@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-    <h1>Welcome to Our WebPage</h1>
+    <h1>Welcome to Our First WebPage</h1>
     <img src ={Picture} alt="Profile-pic"></img>
     </div>
   );
